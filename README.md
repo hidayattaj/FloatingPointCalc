@@ -21,7 +21,7 @@ A personal project built in C++ that implements a command-line floating point ca
 Key Highlights
 - Implemented custom floating point operations using integer arithmetic and bitwise logic.
 - Parsed and normalized binary representations of floating point numbers manually.
-- Designed modular functions for arithmetic operations and rounding behavior.
+- Designed modular functions for arithmetic operations.
 - Enabled precise calculations from the command line with full control over internal representation.
 - Simulated mantissa extraction, exponent shifting, and sign bit handling to mimic IEEE 754 format.
 
@@ -35,7 +35,7 @@ Skills Demonstrated
 Learning Outcomes
 This project helped reinforce:
 - How floating point numbers are represented in memory
-- The challenges of precision and rounding in numerical computing
+- The challenges of precision in numerical computing
 - The power of bitwise operations in simulating hardware-level behavior
 - How to build robust CLI tools with modular design
 
