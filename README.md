@@ -6,7 +6,7 @@
 
 
 
-Software-Based Floating Point Calculator and Converter
+Software-Based Floating Point Calculator and Converter  
 Personal Project, C++
 
 A personal project built in C++ that implements a command-line floating point calculator and converter — entirely without using the CPU’s floating point unit. This calculator performs addition, subtraction, and multiplication using integer arithmetic, bitwise operations, and manual construction of IEEE 754 floating point representations. This project demonstrates a deep understanding of low-level numerical computation by simulating floating point behavior from scratch. It parses decimal input, separates whole and fractional parts, and constructs floating point representations using bit manipulation and binary normalization.
